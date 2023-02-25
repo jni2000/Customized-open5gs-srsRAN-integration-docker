@@ -62,11 +62,11 @@ docker network ls
 ## 2. Pull images from Docker Hub
 User Plane:
 ```
-docker pull jni2000/open5gs-srsRAN-integration-docker:user-plane
+docker pull maduc238/open5gs:user-plane
 ```
 Control Plane:
 ```
-docker pull jni2000/open5gs-srsRAN-integration-docker:control-plane 
+docker pull maduc238/open5gs:control-plane 
 ```
 srsRAN
 ```
