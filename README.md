@@ -24,10 +24,10 @@ This repository contains the following sections:
 
 [4. Run Containers and configure them](#sli)
 - [4.1. User Plane](#slinung)
-- [4.2. Part Control Plane](#slislong)
-- [4.3. Part eNB, UE](#slislam)
+- [4.2. Control Plane](#slislong)
+- [4.3. eNB, UE](#slislam)
 
-[5. Work done](#ha)
+[5. Work done - verification](#ha)
 
 <img src="images/Open5gs-config.jpg">
 
