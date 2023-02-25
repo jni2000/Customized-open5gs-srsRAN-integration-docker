@@ -1,4 +1,4 @@
-# Open5GS in Docker
+# Open5GS and srsRAN integration use case example in Docker
 ![Ubuntu package](https://img.shields.io/ubuntu/v/:v18.04.1-0ubuntu1)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/6pnh7TqTU6c?style=social)
 
@@ -10,7 +10,7 @@ This repository contains the following sections:
 
 [Video instructions](https://www.youtube.com/watch?v=6pnh7TqTU6c)
 
-## Contributors:
+## Original Contributors:
 - [Ma Viet Duc](https://github.com/maduc238)
 - [Pham Thanh Hai](https://github.com/ahihi8z8z)
 
